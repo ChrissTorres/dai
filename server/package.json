@@ -1,0 +1,29 @@
+{
+  "name": "mascotas",
+  "version": "1.0.0",
+  "description": "Api que entrega informacion para el registro de mascotas en duoc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Profesor_Jean_Paul@bitbucket.org/Profesor_Jean_Paul/dai5501_ejemplo_2018.git"
+  },
+  "keywords": [
+    "dai5501",
+    "animales",
+    "duoc",
+    "mascota",
+    "mascotas"
+  ],
+  "author": "Jean Paul Fuentes Tognarelli",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Profesor_Jean_Paul/dai5501_ejemplo_2018#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "mysql": "^2.15.0"
+  }
+}
